@@ -1,43 +1,56 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: JudithZhu's blog
-email: JudithZhu@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+logo: Judith # add logo name
+title: Judith - Enjoy Freedom
+description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+permalink: ':title/'
+baseurl: "/bef" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+# Banner settings
+video: mountains.mp4 # add banner video. Add your video file to the folder video
+banner-title: Enjoy Freedom # add banner title
+banner-desc: The story begins here. # add banner description
+
+# Author settings
+author-pic: face.jpg # your photo
+author-name: Judith Zhu # your name
+about-author: I am a clever girl. Sometimes I may be naughty and playful, but my attitude towards  a better life will not change. # about author
+email: 7.JudithZhu@gmail.com # your email
+phone: (496)-169-6557 # your pnone number
+website: https://Judith-Zhu.github.io # you website
+
+# Social link
+google_url: mailto:7.JudithZhu@gmail.com    # add url link
+twitter_url: https://twitter.com/judithzhu2020   # add url link
+instagram_url: https://www.instagram.com/JudithZhu2017 # add url link
+pinterest_url: https://www.pinterest.com/JudithZhu2017 # add url link
+dribbble_url:  https://dribbble.com/JudithZhu # add url link
+facebook_url: https://www.facebook.com/judith.zhu.1044 # add url link
+
+# Disqus
+discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+
+# Newsletter
+mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+
+# Tracker
+analytics:
+
+# Paginate
+paginate: 12
+paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+plugins_dir:
+  - jekyll-paginate
+  - jekyll-sitemap
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
