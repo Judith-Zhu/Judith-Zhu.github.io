@@ -1,7 +1,12 @@
 
 <header class="main_header">
-  <!-- "controls="controls"" <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}{{site.logo}}{% else %}B<span>ef</span>{% endif %}</a> -->
-  
+  <!--  <a href="{{site.baseurl}}/" class="logo">{% if site.logo %}{{site.logo}}{% else %}B<span>ef</span>{% endif %}</a> -->
+  {% if page.audio %}
+  <audio class="btn-audio" "controls="controls"" autoplay="autoplay" preload="auto" loop="loop" volume="0.2">
+    <source src="{{site.baseurl}}/assets/audio/{{page.audio}}" type="audio/mpeg">
+  Your browser does not support the audio element.
+  </audio>
+  {% endif %}
   <a href="{{site.baseurl}}/" class="logo-no"><img style=width:50%; src="{{site.baseurl}}/assets/img/logo-white.png"/></a>
   <nav class="main_menu">
     <a href="{{site.baseurl}}/about/">About</a>
