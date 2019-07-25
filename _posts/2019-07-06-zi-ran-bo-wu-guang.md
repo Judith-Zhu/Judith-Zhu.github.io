@@ -9,7 +9,7 @@ tags: [Travel]
 subclass: 'post'
 author: martin
 categories: martin
-audio: yueding.mp3
+audio: yueding
 ---
 
 ************
