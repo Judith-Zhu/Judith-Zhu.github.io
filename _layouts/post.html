@@ -69,21 +69,21 @@ layout: default
   </section> <!-- End Section Author -->
 
   <section class="recent_box">
-      <div class="post_wrapper">
-        <h2 class="recent_title">Recent post</h2>
-        <div class="recent_list">
-          {% for post in site.posts offset:0 limit:3 %}
-            {% if post.title %}
-              <a href="{{ post.url | prepend: site.baseurl }}"
-                class="recent_item"
-                style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.cover}} )">
-                  <span>{{ post.title }}</span>
-              </a>
-            {% endif %}
-          {% endfor %}
-        </div>
+    <div class="post_wrapper">
+      <h2 class="recent_title">Recent post</h2>
+      <div class="recent_list">
+        {% for post in site.posts offset:0 limit:3 %}
+          {% if post.title %}
+            <a href="{{ post.url | prepend: site.baseurl }}"
+              class="recent_item"
+              style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.cover}} )">
+                <span>{{ post.title }}</span>
+            </a>
+          {% endif %}
+        {% endfor %}
       </div>
-    </section> <!-- End Section Recent Box -->
+    </div>
+  </section> <!-- End Section Recent Box -->
   
   {% include disqus.html %}
   
