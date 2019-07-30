@@ -8,5 +8,22 @@
   {% include arrow_top.html %}
   {% include javascripts.html %}
   <!-- {% include analytics.html %} -->
+  <!-- <script>
+      function autoPlayVideo(){
+        let bgAudio = document.getElementById("bg-video");
+        bgAudio.play();
+        document.addEventListener("WeixinJSBridgeReady",function () {
+            bgAudio.play();
+        }, false);
+        // 其他应用在click/touch时触发播放
+        document.addEventListener('click', function () {
+            bgAudio.play()
+        })  
+        document.addEventListener('touchstart', function () {
+            bgAudio.play()
+        })
+      }
+      autoPlayVideo();
+    </script> -->
 </body>
 </html>

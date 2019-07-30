@@ -6,23 +6,4 @@
       <h2 class="sub_title">{% if site.banner-desc %}{{ site.banner-desc }}{% else %}"A journey of a thousand miles begins with a single step". — Lao Tzu{% endif %}</h2>
     </div>
   </div>
-
-  <script>
-      function autoPlayVideo(){
-        let bgAudio = document.getElementById("bg-video")
-        bgAudio.play();
-        document.addEventListener("WeixinJSBridgeReady",function () {
-            bgAudio.play();
-        }, false);
-        // 其他应用在click/touch时触发播放
-        document.addEventListener('click', function () {
-            bgAudio.play()
-        })  
-        document.addEventListener('touchstart', function () {
-            bgAudio.play()
-        })
-      }
-      autoPlayVideo();
-    </script>
-
 </section> <!-- End Section Banner -->
