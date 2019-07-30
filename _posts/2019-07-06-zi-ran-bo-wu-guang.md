@@ -9,7 +9,7 @@ tags: [Travel]
 subclass: 'post'
 author: martin
 categories: martin
-audio: yueding.mp3
+audio: http://pv6qhc34o.bkt.clouddn.com/duo-xiang-zai-p-f-sh-h-y-bao-ni-cut.mp3 #yueding.mp3
 ---
 
 ************
