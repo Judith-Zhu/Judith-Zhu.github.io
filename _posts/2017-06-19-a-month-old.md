@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: http://pv6qhc34o.bkt.clouddn.com/17-one-month-old/cover-half-year-old.jpg
+cover: http://pv6qhc34o.bkt.clouddn.com/17-one-month-old/cover-one-month-old.jpg
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
 title: 我满月了
