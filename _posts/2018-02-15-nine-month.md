@@ -6,7 +6,7 @@ navigation: True
 title: 9个月了
 date: 2018-02-25 10:00:00
 tags: [Growth]
-#audio: http://pv6qhc34o.bkt.clouddn.com/nan-shan-nan.mp3
+audio: http://pv6qhc34o.bkt.clouddn.com/ke-neng-fou.mp3
 
 ---
 
@@ -33,3 +33,5 @@ tags: [Growth]
 ![](http://pv6qhc34o.bkt.clouddn.com/18-nine-month/IMG_1239.jpg)
 
 ![](http://pv6qhc34o.bkt.clouddn.com/18-nine-month/IMG_9132.jpg)
+
+![](http://pv6qhc34o.bkt.clouddn.com/18-zhong-guo-guan/IMG_9349.jpg)
