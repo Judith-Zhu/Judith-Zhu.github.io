@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: cover-xihu.jpg
+cover: http://pv6qhc34o.bkt.clouddn.com/19-cover-xi-hu.jpg
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
 title: 人间七月天，最美在西湖
