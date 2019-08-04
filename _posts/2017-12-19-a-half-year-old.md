@@ -3,9 +3,9 @@ layout: post
 cover: 'Cover4.jpg'
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
-title: 我满半岁了
+title: 6个月了
 date: 2017-12-19 12:48:30
-tags: [travel]
+tags: [Growth]
 ---
 
 好快好快我都六个月大了，这边天气也渐渐转凉了，出去玩把自己裹得严严实实的。
