@@ -1,12 +1,12 @@
 ---
 layout: post
-cover: http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/cover_xi-tang.jpg
+cover: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/cover_xi-tang.jpg
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
 title: 我在西塘等你
 date: 2018-09-23 10:00:00
 tags: [Travel]
-#audio: http://pv6qhc34o.bkt.clouddn.com/nan-shan-nan.mp3
+#audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/nan-shan-nan.mp3
 ---
 
 ------
@@ -25,7 +25,7 @@ tags: [Travel]
 
 ​早上八点钟收拾好带上我的干粮出门，自驾大约1小时就到西塘的第五停车场，然后买好门票乘坐接驳车入园，由于周末游客相对较多，我们被安排到从东门入园。
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/Snipaste_2019-08-02_14-39-21.png)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/Snipaste_2019-08-02_14-39-21.png)
 
 *本次游览路线图*
 
@@ -42,43 +42,43 @@ tags: [Travel]
 
 今天西塘天气还算不错，阳光明媚。可能这种小桥流水，小船轻摇，青砖绿瓦才是我喜欢的感觉。
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_9907.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_9907.JPG)
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_1621.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_1621.jpg)
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_1622.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_1622.jpg)
 
 **东门口**
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_1645.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_1645.jpg)
 
 **卧龙桥**
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_1629.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_1629.jpg)
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_1626.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_1626.jpg)
 
 **永宁桥**
 
 节假日人比较多，有条件的最好是平常时间去，要不然就是看人头，小镇里有很多小店可以逛逛，手工品也是挺多的，西塘的酒吧街真心不喜欢，好好的古镇，弄得太商业化了，每家酒吧门口都有服务人员在门口招揽路人，音乐声很大，个人不太喜欢，早上起床早点，在古镇里逛逛还是挺不错的，那时候的街道人流量少，安静，可以静静的感受一下古镇的清晨。
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_9906.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_9906.JPG)
 
 **石皮弄**
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_9905.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_9905.JPG)
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_9908.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_9908.jpg)
 
 **烟雨长廊**
 从石皮弄离开就走到烟雨长廊的，这个名字也给这个景点增加了一点灵气。路的一边是商铺一边是小河，这大概就是最真实的江南水乡的美景了。如果能生活在这里，真是想想心里就美滋滋的，有机会可不要错过这里哈😄。
 
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_1347.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_1347.jpg)
 
 到下午开始变天了
 
-![](http://pv6qhc34o.bkt.clouddn.com/18-xi-tang/IMG_1655.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-xi-tang/IMG_1655.jpg)
 
 此时已经是18点了，天渐渐黑了，游客也少了，顿时安静下来了 我也要回家了。
 

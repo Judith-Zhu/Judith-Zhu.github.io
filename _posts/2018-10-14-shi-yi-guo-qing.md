@@ -1,12 +1,12 @@
 ---
 layout: post
-cover: http://pv6qhc34o.bkt.clouddn.com/18-10-01/cover_18-10-01.jpg
+cover: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-10-01/cover_18-10-01.jpg
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
 title: 家乡的味道
 date: 2018-09-30 10:00:00
 tags: [Travel]
-#audio: http://pv6qhc34o.bkt.clouddn.com/nan-shan-nan.mp3
+#audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/nan-shan-nan.mp3
 ---
 
 ------

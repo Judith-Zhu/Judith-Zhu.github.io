@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: http://pv6qhc34o.bkt.clouddn.com/stars.mp4 #stars.mp4 # add banner video. Add your video file to the folder video
+video: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/stars.mp4 #stars.mp4 # add banner video. Add your video file to the folder video
 banner-title: The story begins here # add banner title
 banner-desc: 爱是我们能感知的，唯一一种超越时空纬度的东西。--《星际穿越》 # add banner description
 
