@@ -46,7 +46,7 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/zhui-guang-zh
 
 吃好喝足大约休息了1.5H 后接着浪。先去**⑧加勒比海滩**活动筋骨。水质干净无杂物，适合拍照取景，宛如自己在度假 哈哈😒。在这里玩的时间比较长，人造海浪一波接一波，尖叫声此起彼伏，过瘾。
 
-![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-maya/pic13_01.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-maya/pic13_01.jpg) 
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-maya/IMG_9771.JPG)
 
