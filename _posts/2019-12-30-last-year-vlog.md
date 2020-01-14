@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-maya/cover-playmaya.jpg
+cover: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-this-year-vlog/cover-this-year-2019.jpg
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
 title: 2019 回顾
