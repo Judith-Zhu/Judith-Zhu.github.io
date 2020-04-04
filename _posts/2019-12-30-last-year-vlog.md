@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-this-year-vlog/vlog-cover.jpg
+cover: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-this-year-vlog/2019-vlog-cover.png
 # https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-this-year-vlog/cover-this-year-2019.jpg
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
