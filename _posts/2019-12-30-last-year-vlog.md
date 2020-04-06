@@ -13,8 +13,8 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/zhui-guang-zh
 
 
 <video id="video" controls="" preload="none" poster="https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-this-year-vlog/vlog-cover.jpg">
-<source id="mp4" src="http://q459fe91l.bkt.clouddn.com/Judith-vloag-2019.mp4" type="video/mp4">
-<!-- <source id="mp4" src="https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-this-year-vlog/Judith-vloag-2019.mp4" type="video/mp4"> -->
+<!--<source id="mp4" src="http://q459fe91l.bkt.clouddn.com/Judith-vloag-2019.mp4" type="video/mp4"> -->
+ <source id="mp4" src="https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-this-year-vlog/Judith-vloag-2019.mp4" type="video/mp4">
 </video>
 
 
