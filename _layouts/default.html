@@ -2,7 +2,7 @@
 <html lang="en">
 {% include head.html %}
 <body>
-  <div style="display:none;"><img src={% if page.cover contains 'http' %}{{ page.cover }}{% else %}{{ "/assets/img/icon_maya.png" | prepend: site.baseurl }}{% endif %} alt="{{page.title}}"></div>
+  <div style="display:none;"><img src={% if page.cover contains 'h2ttp' %}{{ page.cover }}{% else %}{{ "/assets/img/icon_maya.png" | prepend: site.baseurl }}{% endif %} alt="{{page.title}}"></div>
   {{ content }}
 
   {% include arrow_top.html %}
