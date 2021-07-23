@@ -9,7 +9,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/stars.mp4 #stars.mp4 # add banner video. Add your video file to the folder video
+#video: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/stars.mp4 #stars.mp4 # add banner video. Add your video file to the folder video
+video: https://gitee.com/JesseZhu/content-source/raw/6be2c013f97446345e55b8249305ec14de035452/project/videos/stars.mp4
 banner-title: The story begins here # add banner title
 banner-desc: 爱是我们能感知的，唯一一种超越时空纬度的东西。--《星际穿越》 # add banner description
 
@@ -28,6 +29,7 @@ instagram_url: https://www.instagram.com/JudithZhu2017 # add url link
 pinterest_url: https://www.pinterest.com/JudithZhu2017 # add url link
 dribbble_url:  https://dribbble.com/JudithZhu # add url link
 facebook_url: https://www.facebook.com/judith.zhu.1044 # add url link
+# www.linkedin.com/in/judithzhu2017
 
 # Disqus
 discus_identifier: judith-4 # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
