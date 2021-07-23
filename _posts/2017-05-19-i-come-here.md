@@ -11,7 +11,7 @@ subclass: 'post'
 
 ​	    今天是公元2017年5月19日我来到了这个世界，Hello World，我坚信在今后的人生旅途中虽然我不能改变世界，但是我也不会被世界所改变。
 
-![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/17-come-here/IMG_7040.JPG)
+![](https://gitee.com/JesseZhu/content-source/raw/6be2c013f97446345e55b8249305ec14de035452/project/201908/IMG_9073.JPG)
 
 > 你的存在并非偶然，甚至在创造世界以先，神已经挂念着你，并且为着他的目的来塑造你，而这目的远超过你在世上的年日；你原是为永恒而被造！                            ——《标杆人生》
 
