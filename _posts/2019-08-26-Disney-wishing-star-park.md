@@ -3,8 +3,8 @@ layout: post
 cover: https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9072_cover.JPG
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
-title: 迪士尼小镇心愿公园一日游
-date: 2021-09-01 21:50:00
+title: 迪士尼小镇星愿公园
+date: 2019-09-01 21:50:00
 tags: [Travel]
 audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/20-04-rape-flower/you-cai-hua-kai.m
 
