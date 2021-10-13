@@ -28,16 +28,15 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.
 
 -----------------
 
-​       **黄山风景区**位于安徽省最南端，新安江上游，地处`安徽` `浙江` `江西` 交界处，为国家5A级旅游景区，以**奇松**、**怪石**、**云海**、**温泉**、**冬雪**“五绝”及历史遗存、书画、文学、传说、名人“五胜”著称于世，素有**“天下第一奇山“**、“天开图画”、“松海云川”之称，是[中华十大名山](https://baike.baidu.com/item/中华十大名山/4047358)之一、古代道教名山之一、中国最著名的山岳之一。其中**莲花峰**，**光明顶**，**天都峰**为黄山三大主峰，最高峰莲花峰海拔1864.8米，世有**“五岳归来不看山，黄山归来不看岳”**之名。
+​**黄山风景区**位于安徽省最南端，新安江上游，地处`安徽` `浙江` `江西` 交界处，为国家5A级旅游景区，以**奇松**、**怪石**、**云海**、**温泉**、**冬雪**“五绝”及历史遗存、书画、文学、传说、名人“五胜”著称于世，素有**“天下第一奇山“**、“天开图画”、“松海云川”之称，是[中华十大名山](https://baike.baidu.com/item/中华十大名山/4047358)之一、古代道教名山之一、中国最著名的山岳之一。其中**莲花峰**，**光明顶**，**天都峰**为黄山三大主峰，最高峰莲花峰海拔1864.8米，世有**“五岳归来不看山，黄山归来不看岳”**之名。
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/CoUBYGDK0KeAFixuAAuQD-y0EN0542.jpeg)
 
-​		**宏村**位于黄山脚下是一座有着大量[明](https://zh.wikipedia.org/wiki/明)[清](https://zh.wikipedia.org/wiki/清)时期历史建筑的古村落。村中还构建了完善的水系和颇具特色的“牛”形布局，是[徽州](https://zh.wikipedia.org/wiki/徽州)民居的典型代表。2000年，包括宏村在内的皖南古村落在第24届世界遗产委员会上被列为[世界文化遗产](https://zh.wikipedia.org/wiki/世界文化遗产)。
+​**宏村**位于黄山脚下是一座有着大量[明](https://zh.wikipedia.org/wiki/明)[清](https://zh.wikipedia.org/wiki/清)时期历史建筑的古村落。村中还构建了完善的水系和颇具特色的“牛”形布局，是[徽州](https://zh.wikipedia.org/wiki/徽州)民居的典型代表。2000年，包括宏村在内的皖南古村落在第24届世界遗产委员会上被列为[世界文化遗产](https://zh.wikipedia.org/wiki/世界文化遗产)。
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/CoUBYGDK0SKAZVzqABfWteqjKnw637.jpeg)
 
 **行程安排** 📍
-
 ###### Day1
 
 * 08:36-11:30 上海虹桥-黄山北乘坐高铁抵达黄山北；
@@ -67,13 +66,13 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_2987.jpg)
 
-​       前几天正在盘算着爸妈带我去哪里玩，最后决定去近一点的黄山，错开前几天的人流高峰期。黄金周第三日出发坐高铁到黄山北；
+​前几天正在盘算着爸妈带我去哪里玩，最后决定去近一点的黄山，错开前几天的人流高峰期。黄金周第三日出发坐高铁到黄山北；
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_2723.jpg)
 
 **第一天**第一站到达宏村下午一点钟，提前爸爸在网上定的这里定的民宿，很有徽州特色，节假日又在景区内价格自然不便宜🙄，有得多加几个班补回来😒。
 
-![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_1344_polarr.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3278.jpg)
 
 民宿门口，还有成熟的柿子。（景区内各色民宿较多，酒店主要集中在景区外）
 
@@ -85,16 +84,20 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3217.jpg)
 
-古代小宝宝上学的私塾
+古代小宝宝上学的**私塾**
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3192.jpg)
+
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3214.jpg)
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3176.jpg)
 
 到了晚上去了月沼这是🐂牛胃，位于古村的中心位置。周围的徽派古建筑白墙黑瓦倒影其中，晚上古建筑亮了灯，灯影与月色一起在池中波动。
 
-![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3214.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_2925.jpg)
 
 **第二天**一大早爸爸叫上我出去拍照，清晨巷子里面特别安静游客也很少，这几天还遇上了大晴天光线也特别好。很容易出片，忽悠着给我买冰淇淋吃才能调动我的积极性。当然最后还是满足了我的一切所需。
+
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3134.jpg)
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_2860.jpg)
 
@@ -102,12 +105,16 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3032.jpg)
 
-![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3086.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3159.jpg)
 
 *承志堂（地主家）*
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3095.jpg)
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3126.jpg)
+
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3086.jpg)
+
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3199.jpg)
 
 **我的最爱**
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3154.jpg)
@@ -122,10 +129,13 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.
 
 索道到站后第一站便去打卡著名的迎客松景点，这边人还不是很多，给我选了几个角度拍好照，开始补给能量。
 
+**享誉中外的迎客松**
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3394.jpg)
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3364.jpg)
 下一站是黄山最高峰莲花峰。区莲花峰的人很多原计划是奶奶和妈妈去爬莲花峰，爸爸带我直接去光明顶和他们回合，在我执意要去的恳求下爸爸还是妥协了，一路上我表现很不错大部分路都是自己走下来的（爸爸在后面保护我的安全并时不时的辅助我），可能是途中有不少小朋友的缘故让我也没那么害怕这一路上的崎岖凶险。
+
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3447.jpg)
 
 莲花峰主要有花岗岩构成，步道是在岩石上面开凿的，部分路段很陡峭狭窄，海拔高度变化较快，奇松怪石目不暇接，大约一小时左右我们到达峰顶。
 
@@ -135,19 +145,18 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.
 *偷偷拍了张Daddy的侧脸*
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3416.jpg)
 
-![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3447.jpg)
-
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3479.jpg)
 
 *歇一歇*
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3522.jpg)
 
-*快到峰顶*
+*在坚持一下快到峰顶*
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3515.jpg)
 
 *莲花峰顶*
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3586.jpg)
 
+*这个位置看四周很壮观*
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_3426.jpg)
 
 莲花峰上面找了一块空地第二次能量补给，在这里一个叔叔不小心手机掉悬崖下了拍的照片全泡汤了😄。接下去鳌鱼峰-光明顶，路上会经过莲花亭，百步云梯（惊险刺激），一线天，鳌鱼洞，鳌鱼伏金龟。走过百步云梯后我有点累了，开始要抱抱了不一会儿在爸爸肩上睡着了。
