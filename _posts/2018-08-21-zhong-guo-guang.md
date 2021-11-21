@@ -40,7 +40,7 @@ tags: [Travel]
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-zhong-guo-guan/wKgBZ1lTlYCAVRVeAAXNaB37Rwo64.jpeg)
 
-市内光线不太好，没拍几张照片。
+室内光线不太好，没拍几张照片。
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/18-zhong-guo-guan/IMG_0882.jpg)
 

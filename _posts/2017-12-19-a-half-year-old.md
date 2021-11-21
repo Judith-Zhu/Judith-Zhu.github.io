@@ -19,6 +19,10 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/lv-se.mp3
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/17-a-half-year-old/IMG_8650.jpg)
 
+我现在开始长乳牙了，眼神更加灵活，玩具掉了会转头到处找，视野扩大了，视觉灵敏度已接近成人水平。手眼协调能力增强。也会伸手够东西或者从妈妈手里接过东西，但是我仍然不知道什么能放到嘴里，什么不能放到嘴里。所以总是把手里的东西放到嘴里吸吮或啃咬。
+
+当然现在我也有了比较复杂的情绪了，高兴时会笑，不称心时会发脾气，父母离开时会害怕、恐惧😨。
+
 下午有幸第一次去体验**游泳**，可把我乐坏了。
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/17-a-half-year-old/IMG_9008.JPG)
