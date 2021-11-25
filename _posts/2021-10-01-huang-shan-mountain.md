@@ -28,11 +28,11 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.
 
 -----------------
 
-​**黄山风景区**位于安徽省最南端，新安江上游，地处`安徽` `浙江` `江西` 交界处，为国家5A级旅游景区，以**奇松**、**怪石**、**云海**、**温泉**、**冬雪**“五绝”及历史遗存、书画、文学、传说、名人“五胜”著称于世，素有**“天下第一奇山“**、“天开图画”、“松海云川”之称，是[中华十大名山](https://baike.baidu.com/item/中华十大名山/4047358)之一、古代道教名山之一、中国最著名的山岳之一。其中**莲花峰**，**光明顶**，**天都峰**为黄山三大主峰，最高峰莲花峰海拔1864.8米，世有**“五岳归来不看山，黄山归来不看岳”**之名。
+**黄山风景区**位于安徽省最南端，新安江上游，地处`安徽` `浙江` `江西` 交界处，为国家5A级旅游景区，以**奇松**、**怪石**、**云海**、**温泉**、**冬雪**“五绝”及历史遗存、书画、文学、传说、名人“五胜”著称于世，素有**“天下第一奇山“**、“天开图画”、“松海云川”之称，是[中华十大名山](https://baike.baidu.com/item/中华十大名山/4047358)之一、古代道教名山之一、中国最著名的山岳之一。其中**莲花峰**，**光明顶**，**天都峰**为黄山三大主峰，最高峰莲花峰海拔1864.8米，世有**“五岳归来不看山，黄山归来不看岳”**之名。
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/CoUBYGDK0KeAFixuAAuQD-y0EN0542.jpeg)
 
-​**宏村**位于黄山脚下是一座有着大量[明](https://zh.wikipedia.org/wiki/明)[清](https://zh.wikipedia.org/wiki/清)时期历史建筑的古村落。村中还构建了完善的水系和颇具特色的“牛”形布局，是[徽州](https://zh.wikipedia.org/wiki/徽州)民居的典型代表。2000年，包括宏村在内的皖南古村落在第24届世界遗产委员会上被列为[世界文化遗产](https://zh.wikipedia.org/wiki/世界文化遗产)。
+**宏村**位于黄山脚下是一座有着大量[明](https://zh.wikipedia.org/wiki/明)[清](https://zh.wikipedia.org/wiki/清)时期历史建筑的古村落。村中还构建了完善的水系和颇具特色的“牛”形布局，是[徽州](https://zh.wikipedia.org/wiki/徽州)民居的典型代表。2000年，包括宏村在内的皖南古村落在第24届世界遗产委员会上被列为[世界文化遗产](https://zh.wikipedia.org/wiki/世界文化遗产)。
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/CoUBYGDK0SKAZVzqABfWteqjKnw637.jpeg)
 
@@ -66,7 +66,7 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_2987.jpg)
 
-​前几天正在盘算着爸妈带我去哪里玩，最后决定去近一点的黄山，错开前几天的人流高峰期。黄金周第三日出发坐高铁到黄山北；
+前几天正在盘算着爸妈带我去哪里玩，最后决定去近一点的黄山，错开前几天的人流高峰期。黄金周第三日出发坐高铁到黄山北；
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-10-05-huang-shan/IMG_2723.jpg)
 
