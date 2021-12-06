@@ -6,7 +6,7 @@ navigation: True
 title: 感恩遇见
 date: 2021-11-25 20:22:00
 tags: [Travel]
-audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/mujijieshini.mp
+audio: https://cheryev-app.obs.cn-east-3.myhuaweicloud.com/content/ios/2021/05/19/Right%20Here%20Waiting.mp3
 
 ---
 
