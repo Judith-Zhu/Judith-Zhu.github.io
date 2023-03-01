@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9072_cover.JPG
+cover: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9072_cover.JPG
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
 title: 迪士尼小镇星愿公园
@@ -36,26 +36,26 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/20-04-rape-fl
 
 ​	漫步在这片美景中，可以探索公园里的小树林和大湖泊，真是收获满满的一天，尽情的享受大自然的美景吧~🏞
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9073.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9073.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9020.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9020.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9014.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9014.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9080.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9080.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9082.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9082.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9044.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9044.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9029.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9029.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9083.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9083.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9085.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9085.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9097.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9097.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9105.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9105.JPG)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/201908/IMG_9103.JPG)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/19-08-Disney-wishing-star-park/IMG_9103.JPG)

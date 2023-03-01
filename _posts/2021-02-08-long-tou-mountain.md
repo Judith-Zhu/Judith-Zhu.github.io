@@ -1,6 +1,6 @@
 ---
 layout: post
-cover: https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2873_cover.jpg
+cover: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2873_cover.jpg
 logo: 'assets/images/icon-left-font-monochrome-white.png'
 navigation: True
 title: 龙头山之行
@@ -44,34 +44,34 @@ audio: https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/20-04-rape-fl
 
 ​这次出行我还体验了滑雪 ⛷ 运动，感觉非常好。下面是我的这次游玩的 Vlog。👀		
 
-<video id="video" controls="" preload="none" poster="https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2873_video_cover.jpg">
+<video id="video" controls="" preload="none" poster="https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2873_video_cover.jpg">
 <!--<source id="mp4" src="http://q459fe91l.bkt.clouddn.com/Judith-vloag-2019.mp4" type="video/mp4"> -->
  <source id="mp4" src="https://cheryev-app.obs.cn-east-3.myhuaweicloud.com/content/ios/2021/05/19/2021-02-08_longtou_mountain_web.mp4" type="video/mp4">
 </video>
  
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/008eGmZEgy1gn83cqs6aaj30u00uze84.jpeg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/008eGmZEgy1gn83cqs6aaj30u00uze84.jpeg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2876.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2876.jpg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/008eGmZEgy1gn835g0fugj311s0l9jyl.jpeg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/008eGmZEgy1gn835g0fugj311s0l9jyl.jpeg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2871.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2871.jpg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/008eGmZEgy1gn835rc82cj311s0p7k69.jpeg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/008eGmZEgy1gn835rc82cj311s0p7k69.jpeg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/008eGmZEgy1gn8353iqaqj30ku0dxabi.jpeg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/008eGmZEgy1gn8353iqaqj30ku0dxabi.jpeg)
 龙头云栈全长约3.5公里，海拔2200米左右，如盘云游龙，横亘于悬崖峭壁之上。龙头云栈以雄奇险峻著称，以云海美景最为壮丽，行走其上，群山蜿蜒磅礴，风云幻化飞渡，惊险刺激之余仿若置身仙境，绝壁揽胜之间已然平步青云。
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/008eGmZEgy1gn836493mhj311s0lbk54.jpeg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/008eGmZEgy1gn836493mhj311s0lbk54.jpeg)
 你是否等待过日出?看星月消逝，东方泛白，直到那一抹亮光燃亮沉寂的天空，太阳从地平面缓缓升起，朝霞渐渐染红天空，活力、新生、喜悦，那一刻，美得摄人心魄的天空会告诉你，等待有多么值得。朝阳燃烧着晨雾，大地一片金光，日出盛景壮观绝美。龙头山的日落晚霞，安逸恬静，温馨浪漫，带给你一眼万年的惊艳。来龙头山旅游度假的您，怎能错过这美妙的日出和日落呢？
 带着好友，牵着爱人，共赴这大自然赐予的绝佳美景吧！
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2872.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2872.jpg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2874.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2874.jpg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2875.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2875.jpg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2877.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2877.jpg)
 
-![](https://gitee.com/JesseZhu/content-source/raw/master/project/202102/IMG_2878.jpg)
+![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/2021-02-08-long-tou-mountain/IMG_2878.jpg)
