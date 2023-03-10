@@ -38,6 +38,10 @@ tags: [Travel]
 
 写到这里，我得赶紧去和爸爸分享我的感受了。希望我们还能有更多这样美好的时光！
 
+<audio src="https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/20-04-rape-flower/you-cai-hua-kai.mp3" controls="controls">
+Your browser does not support the audio element.
+</audio>
+
 ---
 *爱你的 **Judith***
 
