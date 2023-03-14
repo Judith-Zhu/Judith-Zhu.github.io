@@ -3866,7 +3866,7 @@ body {
 p {
   font-size: 1.1rem;
   line-height: 1.7rem;
-  margin: 0 0 1.75rem;
+  margin: 0 0 1rem;
   color: #525c65;
   font-weight: 400;
 }
@@ -4274,7 +4274,7 @@ cite {
 
 .post_wrapper, .entry_content {
   max-width: 900px;
-  padding: 0 1.85rem;
+  padding: 0 1rem;
   margin: 0 auto;
 }
 
@@ -4411,6 +4411,11 @@ cite {
 
 .author .author_info .author_title::before, .author .author_info .author_title::after {
   content: " — ";
+}
+
+.author_subtitle{
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .author .author_social span {
@@ -4871,7 +4876,7 @@ cite {
     font-size: 1.1rem;
   }
   p {
-    font-size: 1rem;
+    font-size: 0.9375rem;
   }
 }
 
