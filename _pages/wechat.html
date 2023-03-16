@@ -5,28 +5,6 @@ permalink: /wechat/
 ---
 
 <head>
-    <base href="/" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Judith, China cnsupport@gmail.com</title>
-    <meta name="description" content="" />
-    <link
-      rel="icon"
-      href="26387fa4f5b1e3f7b6217b27d79bf264.png"
-      type="image/png"
-      sizes="16x16"
-    />
-    <link
-      rel="icon"
-      href="2d0b56e7e51cf11036ad8734bdb67e2d.png"
-      type="image/png"
-      sizes="32x32"
-    />
-    <link
-      rel="apple-touch-icon"
-      href="725b756a69a7d4c235070e51acd85560.png"
-      sizes="180x180"
-    />
     <style>
       :root {
         --ffsd: 0px;
@@ -892,254 +870,144 @@ permalink: /wechat/
         }
       </style></noscript
     >
-    <script nonce="002f2d67-b155-49ec-aba7-65e412374186">
-      !(function () {
-        "use strict";
-        function n(n, t) {
-          let e = (null == t ? void 0 : t.runOnLoad)
-              ? void 0
-              : document.documentElement.clientWidth,
-            o = (null == t ? void 0 : t.runOnLoad)
-              ? void 0
-              : window.innerHeight;
-          const r = () => {
-              const r = {
-                  runOnLoad: !1,
-                  runOnWidthChange: !0,
-                  runOnHeightChange: !1,
-                  ...t,
-                },
-                i = document.documentElement.clientWidth,
-                d = window.innerHeight,
-                c = o !== d;
-              ((e !== i && r.runOnWidthChange) || (c && r.runOnHeightChange)) &&
-                n(),
-                (e = i),
-                (o = d);
-            },
-            i = (function (n, t) {
-              let e;
-              return (...o) => {
-                clearTimeout(e),
-                  (e = setTimeout(() => {
-                    n(...o);
-                  }, t));
-              };
-            })(r, 100);
-          window.addEventListener("resize", i),
-            (null == t ? void 0 : t.runOnLoad) &&
-              ("loading" === document.readyState
-                ? window.addEventListener("DOMContentLoaded", r)
-                : r());
-        }
-        function t(n, t, e = 0.001) {
-          return Math.abs(n - t) < e;
-        }
-        function e(n, t) {
-          return window.getComputedStyle(n).getPropertyValue(t);
-        }
-        function o(n, t, e) {
-          n.style.setProperty(t, e);
-        }
-        function r(n, t) {
-          const o = document.createElement("div");
-          o.style.setProperty(n, t), document.body.append(o);
-          const r = e(o, n);
-          return o.remove(), r;
-        }
-        function i() {
-          const i = (function () {
-              const n = parseFloat(r("font-size", "0.1px"));
-              return n > 1 ? n : 0;
-            })(),
-            d = (function (n) {
-              const t = 2 * Math.max(n, 1);
-              return t / parseFloat(r("font-size", `${t}px`));
-            })(i);
-          if (
-            ((function (t) {
-              if (0 === t) return;
-              o(document.documentElement, "--minfs", `${t}px`),
-                n(
-                  () => {
-                    const n = 100 * t,
-                      { clientWidth: e } = document.documentElement;
-                    o(
-                      document.documentElement,
-                      "--rzf",
-                      n > e ? (e / n).toPrecision(4) : null
-                    );
-                  },
-                  { runOnLoad: !0 }
-                );
-            })(i * Math.max(1, d)),
-            t(d, 1))
-          )
-            return;
-          const c = t(
-            parseFloat(e(document.documentElement, "font-size")),
-            parseFloat(r("grid-template-columns", "1rem"))
-          );
-          o(
-            document.documentElement,
-            c ? "--rfso" : "--bfso",
-            d.toPrecision(4)
-          );
-        }
-        function d() {
-          document
-            .querySelectorAll("img, image, video, svg")
-            .forEach((n) =>
-              n.addEventListener("contextmenu", (n) => n.preventDefault())
-            );
-        }
-        function c() {
-          const n = window.innerWidth - document.documentElement.clientWidth;
-          var t, e, o;
-          (t = document.documentElement),
-            (e = "--sbw"),
-            (o = n >= 0 ? `${n}px` : null),
-            t.style.setProperty(e, o);
-        }
-        var u;
-        const a =
-          "undefined" != typeof window
-            ? null === (u = window.navigator) || void 0 === u
-              ? void 0
-              : u.userAgent
-            : void 0;
-        const m = !(
-          !a ||
-          ((l = a),
-          !l.match(/AppleWebKit\//) ||
-            l.match(/Chrome\//) ||
-            l.match(/Chromium\//))
-        );
-        var l;
-        function s(n) {
-          const t = Array.from(n.children);
-          t.forEach((n, e) => {
-            if (n.hasAttribute("data-foreign-object-container"))
-              (n.style.transformOrigin = ""), (n.style.transform = "");
-            else {
-              const o = document.createElement("div");
-              o.setAttribute("data-foreign-object-container", ""),
-                (o.style.willChange = "transform"),
-                n.insertAdjacentElement("beforebegin", o),
-                n.remove(),
-                o.append(n),
-                (t[e] = o);
-            }
-          });
-          const e = n.getScreenCTM();
-          if (!e) return;
-          const { a: o, b: r, c: i, d: d } = e;
-          t.forEach((n) => {
-            if (!n.hasAttribute("data-foreign-object-container")) return;
-            const { style: t } = n;
-            (t.transformOrigin = "0px 0px"),
-              (t.transform = `matrix(${o}, ${r}, ${i}, ${d}, 0, 0)`);
-          });
-        }
-        let f;
-        function h() {
-          f ||
-            (f = Array.from(document.querySelectorAll("foreignObject")).filter(
-              (n) => 0 === n.getBoundingClientRect().width
-            )),
-            Array.from(f).forEach(s);
-        }
-        [
-          function () {
-            "loading" === document.readyState
-              ? window.addEventListener("DOMContentLoaded", i)
-              : i();
-          },
-          function () {
-            n(c, { runOnLoad: !0 });
-          },
-          function () {
-            m && n(h, { runOnLoad: !0 });
-          },
-          function () {
-            "loading" === document.readyState
-              ? window.addEventListener("DOMContentLoaded", d)
-              : d();
-          },
-        ].forEach((n) => n());
-      })();
-    </script>
-    <script nonce="002f2d67-b155-49ec-aba7-65e412374186">
-      window.C_CAPTCHA_IMPLEMENTATION = "NETEASE";
-    </script>
-    <script nonce="002f2d67-b155-49ec-aba7-65e412374186">
-      window.C_CAPTCHA_KEY = "94c5dd9a74344130a145fbcdb9d48cbb";
-    </script>
   </head>
-  <body>
-    <div id="root">
-      <section
-        id="NsPE1TjR9xdacHhS"
+  <section
+  id="NsPE1TjR9xdacHhS"
+  style="
+    z-index: 0;
+    overflow: hidden;
+    grid-template-columns: auto 100rem auto;
+    display: grid;
+    position: relative;
+    align-items: center;
+  "
+>
+  <div
+    id="VyxUQ6Rr82iql2LK"
+    style="
+      display: grid;
+      min-height: 100%;
+      position: absolute;
+      grid-area: 1 / 1 / 2 / 4;
+      min-width: 100%;
+    "
+  >
+    <div id="wQJC4pU4H4IVXNBR" style="z-index: 0; position: relative">
+      <div
+        id="ossXeuRlZOx6vd6b"
         style="
-          z-index: 0;
-          overflow: hidden;
-          grid-template-columns: auto 100rem auto;
-          display: grid;
-          position: relative;
-          align-items: center;
+          transform: rotate(0deg);
+          width: 100%;
+          box-sizing: border-box;
+          height: 100%;
         "
       >
         <div
-          id="VyxUQ6Rr82iql2LK"
+          id="phf8sNxJ8hxFCG15"
+          style="width: 100%; opacity: 1; height: 100%"
+        >
+          <div
+            id="BdrqF0rdAuzqDTAo"
+            style="
+              background-color: #f3eac8;
+              transform: scale(1, 1);
+              overflow: hidden;
+              width: 100%;
+              position: relative;
+              opacity: 1;
+              height: 100%;
+            "
+          ></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    id="gyXvnEdpcBIcYIwR"
+    style="display: grid; position: relative; grid-area: 1 / 2 / 2 / 3"
+  >
+    <div id="SAZXmuPSQ2z7RhEo" style="z-index: 9; position: relative">
+      <div
+        id="n7nHMuOVsCPV04hK"
+        style="padding-top: 96.25%; transform: rotate(-10.21602203deg)"
+      >
+        <div
+          id="eFqWEb3e5FXqYYiV"
           style="
-            display: grid;
-            min-height: 100%;
+            top: 0px;
+            left: 0px;
+            width: 100%;
             position: absolute;
-            grid-area: 1 / 1 / 2 / 4;
-            min-width: 100%;
+            height: 100%;
           "
         >
-          <div id="wQJC4pU4H4IVXNBR" style="z-index: 0; position: relative">
+          <div
+            id="kwa4uO2oYKUCUXFr"
+            style="width: 100%; opacity: 1; height: 100%"
+          >
             <div
-              id="ossXeuRlZOx6vd6b"
+              id="EKYgUjP2LAaCTvo0"
               style="
-                transform: rotate(0deg);
+                transform: scale(1, 1);
+                overflow: hidden;
                 width: 100%;
-                box-sizing: border-box;
+                position: relative;
                 height: 100%;
               "
             >
               <div
-                id="phf8sNxJ8hxFCG15"
-                style="width: 100%; opacity: 1; height: 100%"
+                id="ElL8tuIFA1Dg3Hh5"
+                style="
+                  transform: rotate(0deg);
+                  top: 0%;
+                  left: 0%;
+                  width: 100%;
+                  position: absolute;
+                  height: 100%;
+                  opacity: 1;
+                  animation: pulse 1.5s ease-in-out infinite;
+                "
               >
-                <div
-                  id="BdrqF0rdAuzqDTAo"
+                <img
+                  src="{{site.baseurl}}/assets/img/wechat/9acd069013895ff855d2e82a202c336d.png"
+                  alt="3D Star Shape"
+                  loading="lazy"
                   style="
-                    background-color: #f3eac8;
-                    transform: scale(1, 1);
-                    overflow: hidden;
+                    display: block;
+                    object-fit: cover;
                     width: 100%;
-                    position: relative;
-                    opacity: 1;
                     height: 100%;
                   "
-                ></div>
+                />
               </div>
             </div>
           </div>
         </div>
+      </div>
+    </div>
+    <div id="j6MCZUPPgq2ujAo1" style="position: relative">
+      <div
+        id="V7vS8zkBmcTR6B59"
+        style="display: grid; position: relative"
+      >
         <div
-          id="gyXvnEdpcBIcYIwR"
-          style="display: grid; position: relative; grid-area: 1 / 2 / 2 / 3"
+          id="bYPLsRbHzQib5rql"
+          style="
+            display: grid;
+            position: relative;
+            grid-area: 2 / 2 / 3 / 3;
+          "
         >
-          <div id="SAZXmuPSQ2z7RhEo" style="z-index: 9; position: relative">
+          <div
+            id="RfZPLFXMyq0QmpKF"
+            style="z-index: 7; position: relative"
+          >
             <div
-              id="n7nHMuOVsCPV04hK"
-              style="padding-top: 96.25%; transform: rotate(-10.21602203deg)"
+              id="Zic8NiWE0KkvuEXP"
+              style="padding-top: 83.875%; transform: rotate(0deg)"
             >
               <div
-                id="eFqWEb3e5FXqYYiV"
+                id="egWNGXd13p4fhxuM"
                 style="
                   top: 0px;
                   left: 0px;
@@ -1149,11 +1017,11 @@ permalink: /wechat/
                 "
               >
                 <div
-                  id="kwa4uO2oYKUCUXFr"
+                  id="HDj46ofbgQo73tOp"
                   style="width: 100%; opacity: 1; height: 100%"
                 >
                   <div
-                    id="EKYgUjP2LAaCTvo0"
+                    id="g1PVvZdZzpcZg0Gx"
                     style="
                       transform: scale(1, 1);
                       overflow: hidden;
@@ -1163,7 +1031,7 @@ permalink: /wechat/
                     "
                   >
                     <div
-                      id="ElL8tuIFA1Dg3Hh5"
+                      id="KlmwwqpNx6812yPu"
                       style="
                         transform: rotate(0deg);
                         top: 0%;
@@ -1176,8 +1044,8 @@ permalink: /wechat/
                       "
                     >
                       <img
-                        src="{{site.baseurl}}/assets/img/wechat/9acd069013895ff855d2e82a202c336d.png"
-                        alt="3D Star Shape"
+                        src="{{site.baseurl}}/assets/img/wechat/2bf32ba7a0d1520fe0f31087fc6a77a2.png"
+                        alt="3D Head Light Skin Short Brown Hair"
                         loading="lazy"
                         style="
                           display: block;
@@ -1192,306 +1060,32 @@ permalink: /wechat/
               </div>
             </div>
           </div>
-          <div id="j6MCZUPPgq2ujAo1" style="position: relative">
+          <div
+            id="VZaCorxbrovTnmYW"
+            style="
+              display: grid;
+              position: relative;
+              grid-area: 2 / 2 / 4 / 4;
+            "
+          >
             <div
-              id="V7vS8zkBmcTR6B59"
-              style="display: grid; position: relative"
+              id="sbftMi6zjMk4L5Z7"
+              style="
+                display: grid;
+                position: relative;
+                grid-area: 2 / 2 / 3 / 3;
+              "
             >
               <div
-                id="bYPLsRbHzQib5rql"
-                style="
-                  display: grid;
-                  position: relative;
-                  grid-area: 2 / 2 / 3 / 3;
-                "
+                id="ruegVMKUVZMQbyYF"
+                style="z-index: 4; position: relative"
               >
                 <div
-                  id="RfZPLFXMyq0QmpKF"
-                  style="z-index: 7; position: relative"
+                  id="bTqbl3zjDZH80ZYk"
+                  style="padding-top: 86.25%; transform: rotate(0deg)"
                 >
                   <div
-                    id="Zic8NiWE0KkvuEXP"
-                    style="padding-top: 83.875%; transform: rotate(0deg)"
-                  >
-                    <div
-                      id="egWNGXd13p4fhxuM"
-                      style="
-                        top: 0px;
-                        left: 0px;
-                        width: 100%;
-                        position: absolute;
-                        height: 100%;
-                      "
-                    >
-                      <div
-                        id="HDj46ofbgQo73tOp"
-                        style="width: 100%; opacity: 1; height: 100%"
-                      >
-                        <div
-                          id="g1PVvZdZzpcZg0Gx"
-                          style="
-                            transform: scale(1, 1);
-                            overflow: hidden;
-                            width: 100%;
-                            position: relative;
-                            height: 100%;
-                          "
-                        >
-                          <div
-                            id="KlmwwqpNx6812yPu"
-                            style="
-                              transform: rotate(0deg);
-                              top: 0%;
-                              left: 0%;
-                              width: 100%;
-                              position: absolute;
-                              height: 100%;
-                              opacity: 1;
-                              animation: pulse 1.5s ease-in-out infinite;
-                            "
-                          >
-                            <img
-                              src="{{site.baseurl}}/assets/img/wechat/2bf32ba7a0d1520fe0f31087fc6a77a2.png"
-                              alt="3D Head Light Skin Short Brown Hair"
-                              loading="lazy"
-                              style="
-                                display: block;
-                                object-fit: cover;
-                                width: 100%;
-                                height: 100%;
-                              "
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div
-                  id="VZaCorxbrovTnmYW"
-                  style="
-                    display: grid;
-                    position: relative;
-                    grid-area: 2 / 2 / 4 / 4;
-                  "
-                >
-                  <div
-                    id="sbftMi6zjMk4L5Z7"
-                    style="
-                      display: grid;
-                      position: relative;
-                      grid-area: 2 / 2 / 3 / 3;
-                    "
-                  >
-                    <div
-                      id="ruegVMKUVZMQbyYF"
-                      style="z-index: 4; position: relative"
-                    >
-                      <div
-                        id="bTqbl3zjDZH80ZYk"
-                        style="padding-top: 86.25%; transform: rotate(0deg)"
-                      >
-                        <div
-                          id="k6oNcZJ89fQOLKGO"
-                          style="
-                            top: 0px;
-                            left: 0px;
-                            width: 100%;
-                            position: absolute;
-                            height: 100%;
-                          "
-                        >
-                          <div
-                            id="rPDnpv39FT7KufCg"
-                            style="width: 100%; opacity: 1; height: 100%"
-                          >
-                            <div
-                              id="A5L5C9W0vwaN4QOr"
-                              style="
-                                transform: scale(1, 1);
-                                overflow: hidden;
-                                width: 100%;
-                                position: relative;
-                                height: 100%;
-                              "
-                            >
-                              <div
-                                id="WwouTs628y3fnVle"
-                                style="
-                                  transform: rotate(0deg);
-                                  top: 0%;
-                                  left: 0%;
-                                  width: 100%;
-                                  position: absolute;
-                                  height: 100%;
-                                  opacity: 1;
-                                  animation: pulse 1.5s ease-in-out infinite;
-                                "
-                              >
-                                <img
-                                  src="{{site.baseurl}}/assets/img/wechat/87860a8e7489169e167fff57ea601554.png"
-                                  alt="3D Head Fair Skin Long Brown Hair"
-                                  loading="lazy"
-                                  style="
-                                    display: block;
-                                    object-fit: cover;
-                                    width: 100%;
-                                    height: 100%;
-                                  "
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      id="lgEQFu4X4vhLqn3B"
-                      style="z-index: 5; position: relative"
-                    >
-                      <div
-                        id="SS1lfMhDkaxRJvEL"
-                        style="
-                          padding-top: 83.07291667%;
-                          transform: rotate(0deg);
-                        "
-                      >
-                        <div
-                          id="mnNRufXIg3Ic47vo"
-                          style="
-                            top: 0px;
-                            left: 0px;
-                            width: 100%;
-                            position: absolute;
-                            height: 100%;
-                          "
-                        >
-                          <div
-                            id="qz9hw0h1c98prB8w"
-                            style="width: 100%; opacity: 1; height: 100%"
-                          >
-                            <div
-                              id="FCiqB7hbNiu7D0LT"
-                              style="
-                                transform: scale(1, 1);
-                                overflow: hidden;
-                                width: 100%;
-                                position: relative;
-                                height: 100%;
-                              "
-                            >
-                              <div
-                                id="xZ7CZUNFiWsnGGYR"
-                                style="
-                                  transform: rotate(0deg);
-                                  top: 0%;
-                                  left: 0%;
-                                  width: 100%;
-                                  position: absolute;
-                                  height: 100%;
-                                  opacity: 1;
-                                  animation: pulse 1.5s ease-in-out infinite;
-                                "
-                              >
-                                <img
-                                  src="images/e955bbd9be122f069ece99003b98b0cf.png"
-                                  alt="3D Face Happy"
-                                  loading="lazy"
-                                  style="
-                                    display: block;
-                                    object-fit: cover;
-                                    width: 100%;
-                                    height: 100%;
-                                  "
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div
-                      id="aVTuZvEi9WLY4ngT"
-                      style="z-index: 8; position: relative"
-                    >
-                      <div
-                        id="xoP083QXtr5c6juP"
-                        style="
-                          padding-top: 95.43363552%;
-                          transform: rotate(0deg);
-                        "
-                      >
-                        <div
-                          id="MUeSJoNB8EqXNAhk"
-                          style="
-                            top: 0px;
-                            left: 0px;
-                            width: 100%;
-                            position: absolute;
-                            height: 100%;
-                          "
-                        >
-                          <div
-                            id="xeprMq5fRvD3VmVZ"
-                            style="width: 100%; opacity: 1; height: 100%"
-                          >
-                            <div
-                              id="vuvIfpcF5ldbEnLN"
-                              style="
-                                transform: scale(1, 1);
-                                overflow: hidden;
-                                width: 100%;
-                                position: relative;
-                                height: 100%;
-                              "
-                            >
-                              <div
-                                id="X3yIuion21POsfYi"
-                                style="
-                                  transform: rotate(0deg);
-                                  top: 0%;
-                                  left: -0.06713558%;
-                                  width: 100.13427116%;
-                                  position: absolute;
-                                  height: 101.91987446%;
-                                  opacity: 1;
-                                  animation: pulse 1.5s ease-in-out infinite;
-                                "
-                              >
-                                <img
-                                  src="{{site.baseurl}}/assets/img/wechat/16dd59fd9abd56b15edf9897114c7e60.png"
-                                  alt="3D Face Talking"
-                                  loading="lazy"
-                                  style="
-                                    display: block;
-                                    object-fit: cover;
-                                    width: 100%;
-                                    height: 100%;
-                                  "
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="defBQe99BhU8jeUE" style="position: relative">
-            <div
-              id="Vh2bqijnMRV87AvI"
-              style="display: grid; position: relative"
-            >
-              <div id="dGbK2zTnsD5G1WWh" style="z-index: 2; position: relative">
-                <div
-                  id="hEp3w9etFElcQZuT"
-                  style="padding-top: 53.71014767%; transform: rotate(0deg)"
-                >
-                  <div
-                    id="YvjQngxZuz0M3tSA"
+                    id="k6oNcZJ89fQOLKGO"
                     style="
                       top: 0px;
                       left: 0px;
@@ -1500,259 +1094,176 @@ permalink: /wechat/
                       height: 100%;
                     "
                   >
-                    <svg
-                      id="WAJNEFoD235OQehO"
-                      viewBox="0 0 515.2694 276.752"
-                      style="
-                        overflow: hidden;
-                        top: 0%;
-                        left: 0%;
-                        width: 100%;
-                        position: absolute;
-                        opacity: 1;
-                        height: 100%;
-                      "
+                    <div
+                      id="rPDnpv39FT7KufCg"
+                      style="width: 100%; opacity: 1; height: 100%"
                     >
-                      <g id="ZmELLnpQVnGqnVOp" style="transform: scale(1, 1)">
-                        <path
-                          id="ATu0OWmOvyjJ0qZt"
-                          d="M491.2694494059988,0.0 L24.0,0.0 C10.699999809265137,0.0 0.0,10.699999809265137 0.0,24.0 L0.0,252.751982163124 C0.0,266.05196995609276 10.699999809265137,276.751982163124 24.0,276.751982163124 L491.2694494059988,276.751982163124 C504.56943719896753,276.751982163124 515.2694494059988,266.05196995609276 515.2694494059988,252.751982163124 L515.2694494059988,24.0 C515.2694494059988,10.699999809265137 504.56943719896753,0.0 491.2694494059988,0.0"
-                          style="fill: #f7f7f9; opacity: 1"
-                        ></path>
-                      </g>
-                    </svg>
+                      <div
+                        id="A5L5C9W0vwaN4QOr"
+                        style="
+                          transform: scale(1, 1);
+                          overflow: hidden;
+                          width: 100%;
+                          position: relative;
+                          height: 100%;
+                        "
+                      >
+                        <div
+                          id="WwouTs628y3fnVle"
+                          style="
+                            transform: rotate(0deg);
+                            top: 0%;
+                            left: 0%;
+                            width: 100%;
+                            position: absolute;
+                            height: 100%;
+                            opacity: 1;
+                            animation: pulse 1.5s ease-in-out infinite;
+                          "
+                        >
+                          <img
+                            src="{{site.baseurl}}/assets/img/wechat/87860a8e7489169e167fff57ea601554.png"
+                            alt="3D Head Fair Skin Long Brown Hair"
+                            loading="lazy"
+                            style="
+                              display: block;
+                              object-fit: cover;
+                              width: 100%;
+                              height: 100%;
+                            "
+                          />
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
               <div
-                id="Vi8q0GaC5quEit0j"
-                style="z-index: 12; position: relative"
+                id="lgEQFu4X4vhLqn3B"
+                style="z-index: 5; position: relative"
               >
                 <div
-                  id="sOifXuNzCWlwqdtA"
+                  id="SS1lfMhDkaxRJvEL"
                   style="
+                    padding-top: 83.07291667%;
                     transform: rotate(0deg);
-                    width: 100%;
-                    box-sizing: border-box;
-                    height: 100%;
                   "
                 >
                   <div
-                    id="St9FxvzDVEUmv2yf"
+                    id="mnNRufXIg3Ic47vo"
                     style="
-                      flex-direction: column;
-                      display: flex;
+                      top: 0px;
+                      left: 0px;
                       width: 100%;
-                      justify-content: flex-start;
-                      opacity: 1;
+                      position: absolute;
                       height: 100%;
                     "
                   >
-                    <p
-                      id="WoEQZyEiHR6bJ7t7"
-                      style="
-                        color: #494f56;
-                        font-family: YAEVIiOu35c-1;
-                        line-height: 1.4em;
-                        text-align: center;
-                      "
+                    <div
+                      id="qz9hw0h1c98prB8w"
+                      style="width: 100%; opacity: 1; height: 100%"
                     >
-                      <span
-                        id="PknUZPCtas94dgmw"
-                        style="color: #494f56; font-weight: 700"
-                        >Judith, China</span
+                      <div
+                        id="FCiqB7hbNiu7D0LT"
+                        style="
+                          transform: scale(1, 1);
+                          overflow: hidden;
+                          width: 100%;
+                          position: relative;
+                          height: 100%;
+                        "
                       >
-                    </p>
-                    <p
-                      id="PhC37omTHhFgDyUL"
-                      style="
-                        text-transform: none;
-                        color: #494f56;
-                        letter-spacing: 0em;
-                        font-family: YAEVIiOu35c-1;
-                        line-height: 1.4em;
-                        text-align: center;
-                      "
-                    >
-                      <span id="jo7KR2cSgah8zjo7" style="color: #494f56"
-                        >7.JudithZhu@gmail.com</span
-                      ><br />
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="W1Ti9QCEsoBHPQAV" style="z-index: 1; position: relative">
-            <div
-              id="sB2zQdKAJWeD4HGi"
-              style="padding-top: 19.75%; transform: rotate(0deg)"
-            >
-              <div
-                id="Poq1PJYgz8V5Afhp"
-                style="
-                  top: 0px;
-                  left: 0px;
-                  width: 100%;
-                  position: absolute;
-                  height: 100%;
-                "
-              >
-                <div
-                  id="ph6325GfQycdGIse"
-                  style="width: 100%; opacity: 0.55; height: 100%"
-                >
-                  <div
-                    id="bXxvSFTN0JsPSk63"
-                    style="
-                      transform: scale(1, 1);
-                      overflow: hidden;
-                      width: 100%;
-                      position: relative;
-                      height: 100%;
-                    "
-                  >
-                    <div
-                      id="RpfRTfMTer1qCBSx"
-                      style="
-                        transform: rotate(0deg);
-                        top: 0%;
-                        left: 0%;
-                        width: 100%;
-                        position: absolute;
-                        height: 100%;
-                        opacity: 1;
-                        animation: pulse 1.5s ease-in-out infinite;
-                      "
-                    >
-                      <img
-                        src="{{site.baseurl}}/assets/img/wechat/9023a3549b72cef1c5d68675b430f07e.png"
-                        alt="Drop Shadow"
-                        loading="lazy"
-                        style="
-                          display: block;
-                          object-fit: cover;
-                          width: 100%;
-                          height: 100%;
-                        "
-                      />
+                        <div
+                          id="xZ7CZUNFiWsnGGYR"
+                          style="
+                            transform: rotate(0deg);
+                            top: 0%;
+                            left: 0%;
+                            width: 100%;
+                            position: absolute;
+                            height: 100%;
+                            opacity: 1;
+                            animation: pulse 1.5s ease-in-out infinite;
+                          "
+                        >
+                          <img
+                            src="images/e955bbd9be122f069ece99003b98b0cf.png"
+                            alt="3D Face Happy"
+                            loading="lazy"
+                            style="
+                              display: block;
+                              object-fit: cover;
+                              width: 100%;
+                              height: 100%;
+                            "
+                          />
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-          <div id="AiTNpBh9Em4BDg75" style="z-index: 11; position: relative">
-            <div
-              id="sxH59szcrQH0MkX2"
-              style="padding-top: 32%; transform: rotate(0deg)"
-            >
               <div
-                id="ACeoD57BEMnfesep"
-                style="
-                  top: 0px;
-                  left: 0px;
-                  width: 100%;
-                  position: absolute;
-                  height: 100%;
-                "
+                id="aVTuZvEi9WLY4ngT"
+                style="z-index: 8; position: relative"
               >
                 <div
-                  id="GREpwnqACwnyTmmE"
-                  style="width: 100%; opacity: 1; height: 100%"
+                  id="xoP083QXtr5c6juP"
+                  style="
+                    padding-top: 95.43363552%;
+                    transform: rotate(0deg);
+                  "
                 >
                   <div
-                    id="JHDwu6AdFagz1new"
+                    id="MUeSJoNB8EqXNAhk"
                     style="
-                      transform: scale(1, 1);
-                      overflow: hidden;
+                      top: 0px;
+                      left: 0px;
                       width: 100%;
-                      position: relative;
+                      position: absolute;
                       height: 100%;
                     "
                   >
                     <div
-                      id="rfXqwih0MS0Y1VdQ"
-                      style="
-                        transform: rotate(0deg);
-                        top: 0%;
-                        left: 0%;
-                        width: 100%;
-                        position: absolute;
-                        height: 100%;
-                        opacity: 1;
-                        animation: pulse 1.5s ease-in-out infinite;
-                      "
+                      id="xeprMq5fRvD3VmVZ"
+                      style="width: 100%; opacity: 1; height: 100%"
                     >
-                      <img
-                        src="{{site.baseurl}}/assets/img/wechat/wechat_invite.png"
-                        loading="lazy"
+                      <div
+                        id="vuvIfpcF5ldbEnLN"
                         style="
-                          display: block;
-                          object-fit: cover;
+                          transform: scale(1, 1);
+                          overflow: hidden;
                           width: 100%;
+                          position: relative;
                           height: 100%;
                         "
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div id="dM3hUTcY682Bp8Vb" style="z-index: 10; position: relative">
-            <div
-              id="SKrS9TKSMKrAuO9F"
-              style="padding-top: 96.25%; transform: rotate(5.82456854deg)"
-            >
-              <div
-                id="xksOmvG0hUn3LoY9"
-                style="
-                  top: 0px;
-                  left: 0px;
-                  width: 100%;
-                  position: absolute;
-                  height: 100%;
-                "
-              >
-                <div
-                  id="dI4ClF0Qr8AYcbRT"
-                  style="width: 100%; opacity: 1; height: 100%"
-                >
-                  <div
-                    id="IzzGN4R3GoIe3Nw6"
-                    style="
-                      transform: scale(-1, 1);
-                      overflow: hidden;
-                      width: 100%;
-                      position: relative;
-                      height: 100%;
-                    "
-                  >
-                    <div
-                      id="L9ttgobQmZw80JbL"
-                      style="
-                        transform: rotate(0deg);
-                        top: 0%;
-                        left: 0%;
-                        width: 100%;
-                        position: absolute;
-                        height: 100%;
-                        opacity: 1;
-                        animation: pulse 1.5s ease-in-out infinite;
-                      "
-                    >
-                      <img
-                        src="{{site.baseurl}}/assets/img/wechat/9acd069013895ff855d2e82a202c336d.png"
-                        alt="3D Star Shape"
-                        loading="lazy"
-                        style="
-                          display: block;
-                          object-fit: cover;
-                          width: 100%;
-                          height: 100%;
-                        "
-                      />
+                      >
+                        <div
+                          id="X3yIuion21POsfYi"
+                          style="
+                            transform: rotate(0deg);
+                            top: 0%;
+                            left: -0.06713558%;
+                            width: 100.13427116%;
+                            position: absolute;
+                            height: 101.91987446%;
+                            opacity: 1;
+                            animation: pulse 1.5s ease-in-out infinite;
+                          "
+                        >
+                          <img
+                            src="{{site.baseurl}}/assets/img/wechat/16dd59fd9abd56b15edf9897114c7e60.png"
+                            alt="3D Face Talking"
+                            loading="lazy"
+                            style="
+                              display: block;
+                              object-fit: cover;
+                              width: 100%;
+                              height: 100%;
+                            "
+                          />
+                        </div>
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -1760,14 +1271,289 @@ permalink: /wechat/
             </div>
           </div>
         </div>
-      </section>
-      <script
-        src="js/73ad2651535b7ecadd366d5fa045dc32c1cdb8fc38f8243601b62b64f4123420.js"
-        async=""
-        nonce="002f2d67-b155-49ec-aba7-65e412374186"
-      ></script>
+      </div>
     </div>
-  </body>
+    <div id="defBQe99BhU8jeUE" style="position: relative">
+      <div
+        id="Vh2bqijnMRV87AvI"
+        style="display: grid; position: relative"
+      >
+        <div id="dGbK2zTnsD5G1WWh" style="z-index: 2; position: relative">
+          <div
+            id="hEp3w9etFElcQZuT"
+            style="padding-top: 53.71014767%; transform: rotate(0deg)"
+          >
+            <div
+              id="YvjQngxZuz0M3tSA"
+              style="
+                top: 0px;
+                left: 0px;
+                width: 100%;
+                position: absolute;
+                height: 100%;
+              "
+            >
+              <svg
+                id="WAJNEFoD235OQehO"
+                viewBox="0 0 515.2694 276.752"
+                style="
+                  overflow: hidden;
+                  top: 0%;
+                  left: 0%;
+                  width: 100%;
+                  position: absolute;
+                  opacity: 1;
+                  height: 100%;
+                "
+              >
+                <g id="ZmELLnpQVnGqnVOp" style="transform: scale(1, 1)">
+                  <path
+                    id="ATu0OWmOvyjJ0qZt"
+                    d="M491.2694494059988,0.0 L24.0,0.0 C10.699999809265137,0.0 0.0,10.699999809265137 0.0,24.0 L0.0,252.751982163124 C0.0,266.05196995609276 10.699999809265137,276.751982163124 24.0,276.751982163124 L491.2694494059988,276.751982163124 C504.56943719896753,276.751982163124 515.2694494059988,266.05196995609276 515.2694494059988,252.751982163124 L515.2694494059988,24.0 C515.2694494059988,10.699999809265137 504.56943719896753,0.0 491.2694494059988,0.0"
+                    style="fill: #f7f7f9; opacity: 1"
+                  ></path>
+                </g>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          id="Vi8q0GaC5quEit0j"
+          style="z-index: 12; position: relative"
+        >
+          <div
+            id="sOifXuNzCWlwqdtA"
+            style="
+              transform: rotate(0deg);
+              width: 100%;
+              box-sizing: border-box;
+              height: 100%;
+            "
+          >
+            <div
+              id="St9FxvzDVEUmv2yf"
+              style="
+                flex-direction: column;
+                display: flex;
+                width: 100%;
+                justify-content: flex-start;
+                opacity: 1;
+                height: 100%;
+              "
+            >
+              <p
+                id="WoEQZyEiHR6bJ7t7"
+                style="
+                  color: #494f56;
+                  font-family: YAEVIiOu35c-1;
+                  line-height: 1.4em;
+                  text-align: center;
+                "
+              >
+                <span
+                  id="PknUZPCtas94dgmw"
+                  style="color: #494f56; font-weight: 700"
+                  >Judith, China</span
+                >
+              </p>
+              <p
+                id="PhC37omTHhFgDyUL"
+                style="
+                  text-transform: none;
+                  color: #494f56;
+                  letter-spacing: 0em;
+                  font-family: YAEVIiOu35c-1;
+                  line-height: 1.4em;
+                  text-align: center;
+                "
+              >
+                <span id="jo7KR2cSgah8zjo7" style="color: #494f56"
+                  >7.JudithZhu@gmail.com</span
+                ><br />
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="W1Ti9QCEsoBHPQAV" style="z-index: 1; position: relative">
+      <div
+        id="sB2zQdKAJWeD4HGi"
+        style="padding-top: 19.75%; transform: rotate(0deg)"
+      >
+        <div
+          id="Poq1PJYgz8V5Afhp"
+          style="
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            position: absolute;
+            height: 100%;
+          "
+        >
+          <div
+            id="ph6325GfQycdGIse"
+            style="width: 100%; opacity: 0.55; height: 100%"
+          >
+            <div
+              id="bXxvSFTN0JsPSk63"
+              style="
+                transform: scale(1, 1);
+                overflow: hidden;
+                width: 100%;
+                position: relative;
+                height: 100%;
+              "
+            >
+              <div
+                id="RpfRTfMTer1qCBSx"
+                style="
+                  transform: rotate(0deg);
+                  top: 0%;
+                  left: 0%;
+                  width: 100%;
+                  position: absolute;
+                  height: 100%;
+                  opacity: 1;
+                  animation: pulse 1.5s ease-in-out infinite;
+                "
+              >
+                <img
+                  src="{{site.baseurl}}/assets/img/wechat/9023a3549b72cef1c5d68675b430f07e.png"
+                  alt="Drop Shadow"
+                  loading="lazy"
+                  style="
+                    display: block;
+                    object-fit: cover;
+                    width: 100%;
+                    height: 100%;
+                  "
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="AiTNpBh9Em4BDg75" style="z-index: 11; position: relative">
+      <div
+        id="sxH59szcrQH0MkX2"
+        style="padding-top: 32%; transform: rotate(0deg)"
+      >
+        <div
+          id="ACeoD57BEMnfesep"
+          style="
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            position: absolute;
+            height: 100%;
+          "
+        >
+          <div
+            id="GREpwnqACwnyTmmE"
+            style="width: 100%; opacity: 1; height: 100%"
+          >
+            <div
+              id="JHDwu6AdFagz1new"
+              style="
+                transform: scale(1, 1);
+                overflow: hidden;
+                width: 100%;
+                position: relative;
+                height: 100%;
+              "
+            >
+              <div
+                id="rfXqwih0MS0Y1VdQ"
+                style="
+                  transform: rotate(0deg);
+                  top: 0%;
+                  left: 0%;
+                  width: 100%;
+                  position: absolute;
+                  height: 100%;
+                  opacity: 1;
+                  animation: pulse 1.5s ease-in-out infinite;
+                "
+              >
+                <img
+                  src="{{site.baseurl}}/assets/img/wechat/wechat_invite.png"
+                  loading="lazy"
+                  style="
+                    display: block;
+                    object-fit: cover;
+                    width: 100%;
+                    height: 100%;
+                  "
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="dM3hUTcY682Bp8Vb" style="z-index: 10; position: relative">
+      <div
+        id="SKrS9TKSMKrAuO9F"
+        style="padding-top: 96.25%; transform: rotate(5.82456854deg)"
+      >
+        <div
+          id="xksOmvG0hUn3LoY9"
+          style="
+            top: 0px;
+            left: 0px;
+            width: 100%;
+            position: absolute;
+            height: 100%;
+          "
+        >
+          <div
+            id="dI4ClF0Qr8AYcbRT"
+            style="width: 100%; opacity: 1; height: 100%"
+          >
+            <div
+              id="IzzGN4R3GoIe3Nw6"
+              style="
+                transform: scale(-1, 1);
+                overflow: hidden;
+                width: 100%;
+                position: relative;
+                height: 100%;
+              "
+            >
+              <div
+                id="L9ttgobQmZw80JbL"
+                style="
+                  transform: rotate(0deg);
+                  top: 0%;
+                  left: 0%;
+                  width: 100%;
+                  position: absolute;
+                  height: 100%;
+                  opacity: 1;
+                  animation: pulse 1.5s ease-in-out infinite;
+                "
+              >
+                <img
+                  src="{{site.baseurl}}/assets/img/wechat/9acd069013895ff855d2e82a202c336d.png"
+                  alt="3D Star Shape"
+                  loading="lazy"
+                  style="
+                    display: block;
+                    object-fit: cover;
+                    width: 100%;
+                    height: 100%;
+                  "
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
 <!-- <section>
     <p>
         <img src="{{site.baseurl}}/assets/img/wechat_invite.png" alt="Smiley face" width=70%></p>
