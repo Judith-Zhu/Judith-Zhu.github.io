@@ -9,7 +9,10 @@ tags: [Daily]
 ---
 
 ------
-
+<audio src="https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-05-happybirthday/theSpicedDay-2020.m4a" controls="controls">
+Your browser does not support the audio element.
+</audio>
+---
 今天是我四岁的生日，我真的非常兴奋，因为爸爸妈妈给我举办了一个超棒的生日会！他们带着我来到了一个很棒的音乐餐厅，这里装饰得非常漂亮，而且有好听的音乐，气氛超级好。
 
 ![](https://blog-source-1300136923.cos.ap-shanghai.myqcloud.com/21-05-happybirthday/IMG_2620.jpg)
